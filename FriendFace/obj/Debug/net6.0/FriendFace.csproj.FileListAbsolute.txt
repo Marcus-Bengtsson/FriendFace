@@ -1,0 +1,15 @@
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\bin\Debug\net6.0\FriendFace.exe
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\bin\Debug\net6.0\FriendFace.deps.json
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\bin\Debug\net6.0\FriendFace.runtimeconfig.json
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\bin\Debug\net6.0\FriendFace.dll
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\bin\Debug\net6.0\FriendFace.pdb
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\obj\Debug\net6.0\FriendFace.csproj.AssemblyReference.cache
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\obj\Debug\net6.0\FriendFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\obj\Debug\net6.0\FriendFace.AssemblyInfoInputs.cache
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\obj\Debug\net6.0\FriendFace.AssemblyInfo.cs
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\obj\Debug\net6.0\FriendFace.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\obj\Debug\net6.0\FriendFace.dll
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\obj\Debug\net6.0\refint\FriendFace.dll
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\obj\Debug\net6.0\FriendFace.pdb
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\obj\Debug\net6.0\FriendFace.genruntimeconfig.cache
+C:\Coding\Projects\getAcademyModul3\FriendFace\FriendFace\obj\Debug\net6.0\ref\FriendFace.dll
